@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(253, 251, 217);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 40px ;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+op{
+position: fixed;
+top: 0;
+left: 0;
+min-width: 100%;
+min-height: 100%;
+z-index: -1;
+
+
+}
+img{
+    width: 500px;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    border-radius: 50px;
+    height: 300%;
+}
+
+video{
+    width: 500px;
+
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+    border-radius: 50px;
+}
+div{
+    text-align: center;
+}
